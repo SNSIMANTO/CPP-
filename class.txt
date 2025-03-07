@@ -1,0 +1,13 @@
+//Abstraction Header file
+using class
+using header file
+
+//Encapculation
+class c{
+private:
+int a,b,c;
+public:
+void xyz()
+{}
+}
+
